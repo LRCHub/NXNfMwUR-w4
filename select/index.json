@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Cutie Panther",
+  "base_artist": "BiBi",
+  "createdAt": "2026-03-24T13:25:11.888189Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/01_Cutie_Panther_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/02_Cutie_Panther_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cutie Panther -Off Vocal-",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/03_Cutie_Panther_-Off_Vocal-_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "cutie panther",
+      "artist": "bibi",
+      "has_synced": false,
+      "path": "select/04_cutie_panther_bibi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cutie Panther (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": false,
+      "path": "select/05_Cutie_Panther_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cutie Panther (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/06_Cutie_Panther_(MAKI_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cutie Panther (Metal-Panther Mix)",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/07_Cutie_Panther_(Metal-Panther_Mix)_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cutie Panther (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/08_Cutie_Panther_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "Pile",
+      "has_synced": false,
+      "path": "select/09_Cutie_Panther_Pile.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/10_Cutie_Panther_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/11_Cutie_Panther_南條愛乃.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cutie Panther - Metal-Panther Mix",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/12_Cutie_Panther_-_Metal-Panther_Mix_μ's.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "BiBi",
+      "has_synced": true,
+      "path": "select/13_Cutie_Panther_BiBi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "BiBi (絢瀬絵里、西木野真姫、矢澤にこ)",
+      "has_synced": true,
+      "path": "select/14_Cutie_Panther_BiBi_(絢瀬絵里、西木野真姫、矢澤にこ).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cutie Panther",
+      "artist": "BiBi (絢瀬絵里、西木野真姫、矢澤にこ)",
+      "has_synced": true,
+      "path": "select/15_Cutie_Panther_BiBi_(絢瀬絵里、西木野真姫、矢澤にこ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cutie Panther",
+      "artist": "BiBi",
+      "has_synced": false,
+      "path": "select/pl_01_Cutie_Panther_BiBi.txt"
+    }
+  ]
+}
